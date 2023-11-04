@@ -14,6 +14,7 @@ do{
 }while(confirm("¿Continuar?")){
     document.write(cadenasConcatenadas);
 }  
- 
+
+//duda:si quiero introducir cadenas distintas?
 
 //El método confirm() muestra un cuadro de diálogo con un mensaje, un botón Aceptar y un botón Cancelar.//El método confirm() devuelve verdadero si el usuario hizo click en "Aceptar", en caso contrario devuelve falso.
