@@ -1,3 +1,11 @@
 hr{
     border: 1px dashed gray;
 }
+
+table, td{
+    border: 1px solid aqua;
+}
+
+td{
+    padding: 10px;
+}
