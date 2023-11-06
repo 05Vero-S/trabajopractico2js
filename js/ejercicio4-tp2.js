@@ -2,19 +2,23 @@
 
 
 
-let numero = parseInt(prompt("Introduce un número: "));
-let suma= 0;
 do{
+    let numero = parseInt(prompt("Introduce un número: "));
+    let suma= 0;
     if(Number(numero) == numero){
         numero= Number(numero);
         suma= suma + numero;
+        
     }else{
         if(numero != undefined){
             alert("No es un número")
         }
     }
-
-}while(numero != undefined);
     
+}while(confirm("Desea continuar?")){
+    
+}
 document.write(suma);
+
+
 

@@ -29,3 +29,5 @@ do{
     
 }
 while(nota != undefined);
+
+//nota. a partir de la condicion de 7 no puedo poner bien. todo considera notable. Lo modifique pero se modifica para 7-8-9. por igual
