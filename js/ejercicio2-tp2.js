@@ -1,6 +1,7 @@
 
-let nota = parseInt(prompt("Introduce una nota: "));
+
 do{
+    let nota = parseInt(prompt("Introduce una nota: "));
     if(Number(nota) == nota){
         if (nota >= 0 && nota <=10){
             if (nota <= 2){
