@@ -13,3 +13,4 @@ for(i=0; i < texto.length; i++){
 }
 
 
+//no puedo solucionar que se pone como piramide.

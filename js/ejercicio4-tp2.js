@@ -20,5 +20,5 @@ do{
 }
 document.write(suma);
 
-
+//duda: no me muestra la suma. 
 
